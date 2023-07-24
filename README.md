@@ -8,8 +8,7 @@ programming gone wild !
 here a simulation of Rock-Paper-Scissors-Lizard-Spock game
 i you are not familiar with this game, here an explanation
 
-![alt text](https://github.com/fawzeus/ rock-paper-scissors-simulator
-/blob/main/RPSLS.webp?raw=true)
+![alt text](https://github.com/fawzeus/rock-paper-scissors-simulator/blob/main/RPSLS.jpg?raw=true)
 
 choose your fighter !!
 
